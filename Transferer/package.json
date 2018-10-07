@@ -1,0 +1,9 @@
+{
+  "name": "transferer",
+  "version": "0.0.0",
+  "description": "Transferer",
+  "main": "app.js",
+  "author": {
+    "name": "bt7s7"
+  }
+}

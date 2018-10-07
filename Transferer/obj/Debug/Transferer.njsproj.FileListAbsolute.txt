@@ -1,0 +1,3 @@
+D:\deti\Git\Transferer\Transferer\obj\Debug\Transferer.njsprojResolveAssemblyReference.cache
+D:\deti\Git\Transferer\Transferer\obj\Debug\Transferer.njsproj.CoreCompileInputs.cache
+D:\deti\Git\Transferer\Transferer\bin\Microsoft.NodejsTools.WebRole.dll
